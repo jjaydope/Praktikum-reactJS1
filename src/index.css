@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.dashboard {
+  background-color: #98AFC7;
+  font-family: 'Robo-mono', sans-serif;
+  height: auto;
+  font-family: "Raleway", sans-serif;
+  background-image: url("../public/bg.png");
+  background-repeat: no-repeat;
+  background-size: 700px 800px;
+  background-attachment: fixed;
+  background-position: right bottom; 
+}
+
+.location-header {
+  font-size: 14px;
+  color: #4863A0;
+  line-height: 6px;
+  letter-spacing: 2px;
+
+}
+.welcome-admin {
+  font-size: 55px;
+  line-height: 52px;
+  color: #4863A0;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.Desc-header {
+  font-size: 25px;
+  color: #4863A0;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.link {
+  font-weight: 500;
+  color: #4863A0;
+  font-size: 21px;
+  position: right bottom;
+}
+
+.level {
+  font-weight: bold;
+  color: #4863A0;
+  display: inline-block;
+}
+
+/* .content {
+  background-color: white;
+  margin-top: 20px;
+  border-radius: 20px;
+} */
+
+.logo {
+  margin-top: -30px;
+}
+
+.header {
+  margin-left: 20px;
+  display: inline-block;
+  line-height: 18px;
+}
+
+.namasekolah {
+  font-weight: bold;
+  color: #040E28;
+}
+
+.email {
+  color: #B3B8C3;
+  text-decoration: none;
+}
+
+.address {
+  color: #B3B8C3;
+  text-align: right;
+  line-height: 8px;
+  display: inline-block;
+  float: right;
+  font-size: 15px;
+}
+
+.box {
+  background-color: #4E4DA6;
+  max-width: 1250px;
+  height: 215px;
+  margin-top: 35px;
+  border-radius: 20px;
+  padding: 35px;
+  color: white;
+}
+
+.desc {
+  color: #B3B8C3;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.illus {
+  float: right;
+}
