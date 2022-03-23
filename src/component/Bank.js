@@ -54,7 +54,7 @@ const Bank = () => {
                                 </select>
 
                             </div>
-                            <button type="submit" className="btn btn-dark w-100">Hitung</button>
+                            <button type="submit" className="btn btn-dark w-100">Count</button>
                         </form>
                         <input value={"Rp. " + cicilan + ",-"} className="form-control" readOnly />
 
